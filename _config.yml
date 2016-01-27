@@ -1,0 +1,28 @@
+name: I want local food
+favicon: null
+layout_spectrum: 0.15500228805467486
+typography_spectrum: 0.3552295414265245
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.06250772159546614
+  lightness: 0.16154581890441477
+  saturation: 0.9255578715819865
+  rhythmicContrast: 0.6634631459601223
+purpose: []
